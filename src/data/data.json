@@ -1,0 +1,134 @@
+{
+  "navbar": {
+    "img": "https://res.cloudinary.com/dbfn5lnvx/image/upload/v1648478885/learnhtmlcss/portfolio/logo.svg",
+    "options": [
+      {
+        "title": "About me",
+        "href": "#about-me",
+        "className": "btn--nav"
+      },
+      {
+        "title": "Portfolio",
+        "href": "#portfolio",
+        "className": "btn--nav"
+      },
+      {
+        "title": "Experience",
+        "href": "#experience",
+        "className": "btn--nav"
+      },
+      {
+        "title": "Testimonials",
+        "href": "#testimonials",
+        "className": "btn--nav"
+      },
+      {
+        "title": "Hire me",
+        "href": "#hire-me",
+        "className": "btn--raised"
+      }
+    ]
+  },
+  "intro": {
+    "fullName": "Sam Green",
+    "profession": "Web Developer",
+    "description": {
+      "first": "Sam is a web developer based in Amsterdam.",
+      "second": "Sam brings your idea to life with",
+      "third": "modern technology."
+    }
+  },
+  "about": {
+    "title": "About me",
+    "description": {
+      "first": "Sam studied computer science and multimedia at the University of Web Design. Years of experience have given Sam a unique angle to approach client projects.",
+      "second": "Sam works mostly with startups and advises them on the best technology that is suitable htmlFor their project.",
+      "third": "  Sam helps you bring your vision to life with attention to detail and an unrivaled focus on quality."
+    }
+  },
+  "portfolio": {
+    "title": " Portfolio",
+    "portfolio": [
+      {
+        "img": "https://res.cloudinary.com/dbfn5lnvx/image/upload/v1648478885/learnhtmlcss/portfolio/project-1.jpg",
+        "title": "Stocks web app",
+        "description": "Worked with a client in the United States on a stocks web app with dark theme. The web app is accessible and performes really well on entry-level devices.",
+        "href": "https://example.com",
+        "link": "Visit"
+      },
+      {
+        "img": "https://res.cloudinary.com/dbfn5lnvx/image/upload/v1648478885/learnhtmlcss/portfolio/project-3.jpg",
+        "title": "Travel planner",
+        "description": "Once a year, it's time to let the place you go home and go discover. With this Travel planner, you can easily plan your next trip. So, where will you go?",
+        "href": "https://example.com",
+        "link": "Visit"
+      },
+      {
+        "img": "https://res.cloudinary.com/dbfn5lnvx/image/upload/v1648478885/learnhtmlcss/portfolio/project-4.jpg",
+        "title": "Sports tracker",
+        "description": "I love sports. I love to track my progress. With this sports tracker app, you can easily track your progress and unlock achievements. The unique gamification aspect makes you want to keep smashing your goals!",
+        "href": "https://example.com",
+        "link": "Visit"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "list": [
+      { "tag": "Startup advice" },
+      { "tag": "Income tax" },
+      { "tag": "Sales tax" },
+      { "tag": "Minimum Viable Product" },
+      { "tag": "HTML" },
+      { "tag": "CSS" },
+      { "tag": "JavaScript" },
+      { "tag": "React" },
+      { "tag": "Redux" },
+      { "tag": "Next" },
+      { "tag": "TypeScript" },
+      { "tag": "Ant Design" },
+      { "tag": "Python" }
+    ]
+  },
+  "testimonials": {
+    "title": "testimonials",
+    "list": [
+      {
+        "description": "Sam has completely transformed the way we launch our products! What we particularly appreciate is the attention to detail and express communication. We are really happy that the whole project was completed worry-free! Thank you, Sam!",
+        "name": "Jhon Doe"
+      },
+      {
+        "description": "  We were skeptical at first. However, Sam over delivered on our project. We are very happy and satisfied customers. Definitely recommended htmlFor startups!",
+        "name": "Jhonatan Doe"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hire Me",
+    "location": "Current location",
+    "address":"Herengracht 900",
+    "city":"Amsterdam",
+    "country":"Netherlands",
+    "emailTitle":"Email",
+    "email":"email@example.com",
+    "phoneTitle":"Phone number",
+    "phone":"57 310 329 83 46",
+    "whatsAppMessage": "Hello I want speak with you",
+    "placeholder":{
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "message":"Enter your message",
+      "btn": "Send"
+    }
+  },
+  "footer": {
+    "img":"https://res.cloudinary.com/dbfn5lnvx/image/upload/v1648478885/learnhtmlcss/portfolio/logo.svg",
+    "nick": "Will",
+    "slogan": "Always for you",
+    "title": "My Social Media",
+    "twitter": "https://twitter.com/",
+    "facebook": "https://www.facebook.com/",
+    "linkedin": "https://www.linkedin.com/"
+  }
+
+}
